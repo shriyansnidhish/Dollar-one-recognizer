@@ -2,13 +2,9 @@
 
 ##                          Course : CIS6930: Human-Centered Input Recognition Algorithms (HCIRA)
 #                                  Implementation of $1 Gesture Recognition Algorithm
-** Description :**
+**Description :**
 ------
 In the scope of our recent project, our primary objective was to design and develop a sophisticated user interface. This interface was tailored to precisely detect and recognize a set of 16 predetermined unistroke gestures. The foundation of our gesture recognition process was the renowned $1 recognition algorithm. This algorithm not only provided the robustness required for accurate recognition but also ensured swift response times, thereby enhancing user experience. By focusing on these specific gestures, we aimed to provide a streamlined and intuitive interaction platform for users, ensuring that the most common gestures were efficiently recognized and processed.". Furthermore, this was extended to evaluate the algorithm's accuracy by testing its recognition capabilities with three additional input modes: laptop mousepad, touch with a stylus, and touch without a stylus.
-
-**$1 Algorithm Reference :**
------
-[Jacob O. Wobbrock, Andrew D. Wilson, and Yang Li. 2007. Gestures without libraries, toolkits or training: a $1 recognizer for user interface prototypes. In Proceedings of the 20th annual ACM symposium on User interface software and technology (UIST '07). ACM, New York, NY, USA, 159-168.](https://dl.acm.org/doi/abs/10.1145/1294211.1294238?casa_token=5FbPgYWhczkAAAAA:4i8ClOkuH7NJi2HkSZyMKIVGQPU7wq1l-hK2YiOxAsKQh1fMx4WqrydSZqOj2aUGWhr7ApxtG-uZ)
 
 **Project Goal:**
 -----
